@@ -1,0 +1,12 @@
+[submodule "libraries/gd.h"]
+	path = libraries/gd.h
+	url = https://github.com/HJfod/gd.h
+[submodule "libraries/mat-dash"]
+	path = libraries/mat-dash
+	url = https://github.com/matcool/mat-dash
+[submodule "libraries/cocos-headers"]
+	path = libraries/cocos-headers
+	url = https://github.com/HJfod/cocos-headers
+[submodule "libraries/minhook"]
+	path = libraries/minhook
+	url = https://github.com/TsudaKageyu/minhook
